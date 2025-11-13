@@ -1,8 +1,9 @@
 # tracker.py
 # Author: Rudra Pratap Singh
 # Date: 12/11/2025
+# roll number: 2501730451
 # Project: Daily Calorie Tracker
-# Course: Programming for Problem Solving Using Python (ETCCPP102)
+# Course: Python
 
 
 
@@ -74,3 +75,4 @@ else:
     print("Session not saved. Exiting program...")
 
 print("\nThank you for using Daily Calorie Tracker!")
+
